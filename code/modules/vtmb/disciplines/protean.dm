@@ -1,6 +1,6 @@
 /datum/discipline/protean
 	name = "Protean"
-	desc = "Lets your beast out, making you stronger and faster. Violates Masquerade."
+	desc = "Lets your beast out, making you stronger and faster. Violates  Masquerade."
 	icon_state = "protean"
 	clan_restricted = TRUE
 	power_type = /datum/discipline_power/protean
